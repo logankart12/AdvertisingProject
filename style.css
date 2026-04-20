@@ -1,0 +1,48 @@
+body {
+background-color:tan;
+font-family:"Fontdiner Swanky";
+}
+
+a {
+border-radius: 20px;
+  border-style:solid;
+  border-color:red;
+  background-color: lightgreen;
+  text-decoration: none;
+}
+
+footer {
+   position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.bottomtext {
+  font-family: sans-serif;
+  font-size: 10px;
+}
+
+.rr {
+  border-style:none;
+  background-color:transparent;
+  text-decoration: none;
+}
+
+img {
+border-radius: 20px;
+  border-style:outset;
+  border-color:brown;
+  border-width:20px;
+}
+
+.right {
+  position: fixed;
+  right: 0;
+  bottom:0;
+}
+
+.stick {
+  width:400px;
+  border-style:none;
+}
